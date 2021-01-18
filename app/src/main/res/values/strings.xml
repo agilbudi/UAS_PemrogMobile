@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Covid19 Apps</string>
+    <string name="confirmed">Confirmed</string>
+    <string name="recovered">Recovered</string>
+    <string name="deaths">Deaths</string>
+    <string name="countries">Countries</string>
+    <string name="cases">Case</string>
+</resources>
